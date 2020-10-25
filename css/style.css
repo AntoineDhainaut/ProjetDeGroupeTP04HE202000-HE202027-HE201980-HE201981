@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.content {
+    text-align: center;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 25px;
+
+}
+.content-text {
+    background-color: gray;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 25px;
+    text-align: center;
+
+}
+.fleche{
+    margin-top: 100px;
+    text-align: center;
+}
+
+img {
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
